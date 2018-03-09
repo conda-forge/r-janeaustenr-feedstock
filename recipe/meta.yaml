@@ -1,4 +1,4 @@
-{% set version = '0.1.4' %}
+{% set version = "0.1.5" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/janeaustenr_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/janeaustenr/janeaustenr_{{ version }}.tar.gz
-  sha256: 318125445be20af3f2d17c384eec0c27b702d0e8c0823af41b0433cd1449b3fb
+  sha256: 992f6673653daf7010fe176993a01cd4127d9a88be428da8da7a28241826d6f3
 
 build:
   number: 0
