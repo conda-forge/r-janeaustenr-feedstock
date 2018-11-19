@@ -14,9 +14,8 @@ Summary: Full texts for Jane Austen's 6 completed novels, ready for text analysi
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-janeaustenr-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-janeaustenr-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-janeaustenr-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-janeaustenr-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-janeaustenr-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-janeaustenr-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-janeaustenr-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-janeaustenr-feedstock)
 
 Current release info
 ====================
