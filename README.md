@@ -1,11 +1,11 @@
-About r-janeaustenr
-===================
+About r-janeaustenr-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-janeaustenr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/juliasilge/janeaustenr
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-janeaustenr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Full texts for Jane Austen's 6 completed novels, ready for text analysis. These novels are "Sense and Sensibility", "Pride and Prejudice", "Mansfield Park", "Emma", "Northanger Abbey", and "Persuasion".
 
